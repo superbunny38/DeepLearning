@@ -4,3 +4,4 @@
 - papers: 리뷰 혹은 구현한 각종 논문들
 - KAIST Idea Factory Intensive Program #2 딥러닝 홀로서기 참고
 - SupplementaryMaterials: 이해에 도움되는 보조자료
+- CS231
