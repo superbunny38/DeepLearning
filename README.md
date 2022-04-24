@@ -7,4 +7,4 @@
 - CS231
 
 
-**Note**: anything with "explained_by_me" means that the copyright belongs to me and is created by me, Chaeeun.
+**Note**: anything with "explained_by_me" means that it is created by me, Chaeeun.
