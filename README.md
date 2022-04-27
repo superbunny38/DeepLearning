@@ -5,6 +5,7 @@
 - KAIST Idea Factory Intensive Program #2 딥러닝 홀로서기 참고
 - SupplementaryMaterials: 이해에 도움되는 보조자료
 - CS231
+- Data eXperience Lab (SKKU 박은일 교수님)
 
 
 **Note**: anything with "explained_by_me" means that it is created by me, Chaeeun.
