@@ -5,7 +5,7 @@
 - KAIST Idea Factory Intensive Program #2 딥러닝 홀로서기 참고
 - SupplementaryMaterials: 이해에 도움되는 보조자료
 - CS231
--   Detection, Segmentation
+  - Detection, Segmentation
 - Data eXperience Lab (SKKU 박은일 교수님 연구실)
 
 
