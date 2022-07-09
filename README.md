@@ -4,6 +4,8 @@
 - papers: 리뷰 혹은 구현한 각종 논문들 (self-reviewed or implemented papers)
 - KAIST Idea Factory Intensive Program #2 딥러닝 홀로서기 참고
 - SupplementaryMaterials: 이해에 도움되는 보조자료 (mostly made by me)
+- 만들면서 배우는 파이토치 딥러닝
+  - Semantic Segmentation
 - CS231
   - Detection, Segmentation
 - Data eXperience Lab (SKKU 박은일 교수님 연구실)
