@@ -13,7 +13,7 @@
 - KAIST Idea Factory 딥러닝 홀로서기
   - Graph Convolutional Network
 - pytorch_advanced: 만들면서 배우는 파이토치 딥러닝
-- Supplementary Materials: Supplementary concepts essential to understand deep learning
+- Supplementary Materials: Supplementary concepts essential to understand deep learning (noted by me)
 - **papers**: Self-reviewed or implemented papers
 
 [Upcoming]
