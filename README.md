@@ -6,6 +6,7 @@
 [완독]
 - 밑바닥 부터 시작하는 딥러닝 1,2
 - CS231n (Stanford Univ.)
+  - Introduction to Convolutional Neural Networks for Visual Recognition (22.09.21)
   - Segmentation & Detection
 - 파이토치 1x로 시작하는 딥러닝
 - Computer Vision (SKKU, Prof. Gaya Nadarajan Lecture **Teaching Assistant** (2022-Spring), Attended (2021-Fall))
