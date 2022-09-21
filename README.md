@@ -5,7 +5,7 @@
 
 [완독]
 - 밑바닥 부터 시작하는 딥러닝 1,2
-- CS231 (Stanford Univ.)
+- CS231n (Stanford Univ.)
   - Segmentation & Detection
 - 파이토치 1x로 시작하는 딥러닝
 - Computer Vision (SKKU, Prof. Gaya Nadarajan Lecture **Teaching Assistant** (2022-Spring), Attended (2021-Fall))
@@ -18,7 +18,6 @@
 
 [Upcoming]
 - CS230 (2022-Winter)
-- CS231 (2022-Winter)
 
 [부분 참고]
 - 파이토치 첫걸음:딥러닝 기초부터 RNN 오토인코더 GAN 실전 기법까지
