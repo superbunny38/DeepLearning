@@ -5,5 +5,5 @@
 
 ## Solving Status (Assignments)
 
-- Assignment1
+- [Assignment1](https://cs231n.github.io/assignments2022/assignment1/)
   - KNN (22.09.23)
