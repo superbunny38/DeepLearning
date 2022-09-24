@@ -11,6 +11,7 @@
   - Loss Functions and Optimization (22.09.22)
   - Introduction to Neural Networks (22.09.22)
   - Convolutional Neural Networks (22.09.23)
+  - Training Neural Networks (22.09.24)
   - Segmentation & Detection
 - 파이토치 1x로 시작하는 딥러닝
 - Computer Vision (SKKU, Prof. Gaya Nadarajan Lecture **Teaching Assistant** (2022-Spring), Attended (2021-Fall))
