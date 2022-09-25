@@ -3,6 +3,7 @@
 *All rights are entitled to Stanford Univ, CS213n*<br>
 *All solved by Chaeeun Ryu*
 ## Lecture Note Status
+- Lecture 4 (22.09.25)
 - Lecture 6 (22.09.25)
 
 ## Solving Status (Assignments)
