@@ -2,6 +2,8 @@
 ***압도적으로 잘하겠습니다. 실패는 습관이니까요.***<br><br>
 *All rights are entitled to Stanford Univ, CS213n*<br>
 *All solved by Chaeeun Ryu*
+## Lecture Note Status
+- Lecture 6 (22.09.25)
 
 ## Solving Status (Assignments)
 
