@@ -1,7 +1,7 @@
 # 2022 CS231n: Deep Learning for Computer Vision
 ***압도적으로 잘하겠습니다. 실패는 습관이니까요.***<br><br>
 *All rights are entitled to Stanford Univ, CS231n*<br>
-*All solved by Chaeeun Ryu*
+*All problems solved by Chaeeun Ryu*
 ## Lecture Note Status
 - Lecture 4 (22.09.25)
 - Lecture 6 (22.09.25)
