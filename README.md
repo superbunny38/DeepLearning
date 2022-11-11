@@ -13,6 +13,7 @@
   - Convolutional Neural Networks (22.09.23)
   - Training Neural Networks I (22.09.24)
   - Training Neural Networks II (22.09.25)
+  - Deep Learning Software (22.11.11)
   - Segmentation & Detection
 - Vector, Matrix, and Tensor Derivatives (Erik Learned-Miller, Stanford Univ.)
 - 파이토치 1x로 시작하는 딥러닝
