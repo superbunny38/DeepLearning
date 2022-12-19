@@ -5,7 +5,7 @@ def weighted_cce(logits, mask, class_weights = [0.1,4,2,4,1,3]):
     Version: Pytorch 1.12.0
     Author: Chaeeun Ryu
     mask: (BxHxW) B: BatchSize
-    logits: (BxCxHxW) C: Number of Classes
+    logits: (BxCxHxW) C: Number of Classes (including background as a class)
     class_weights: weights per class (index 0: background)
     
     """
