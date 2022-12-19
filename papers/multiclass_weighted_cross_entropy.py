@@ -1,4 +1,6 @@
 ######### Multi-class Weighted Cross Entropy for Segmentation #########
+from segmentation_models_pytorch.losses import SoftBCEWithLogitsLoss
+import torch
 
 def weighted_cce(logits, mask, class_weights = [0.1,4,2,4,1,3]):
     """"
