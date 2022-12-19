@@ -1,4 +1,4 @@
-######### Weighted Cross Entropy for Segmentation #########
+######### Multi-class Weighted Cross Entropy for Segmentation #########
 
 def weighted_cce(logits, mask, class_weights = [0.1,4,2,4,1,3]):
     """"
