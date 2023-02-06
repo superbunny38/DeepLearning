@@ -15,6 +15,7 @@
   - Training Neural Networks II (22.09.25)
   - Deep Learning Software (22.11.11)
   - CNN Architectures (22.12.14)
+  - Recurrent Neural Networks (23.02.06)
   - Segmentation & Detection
 - Vector, Matrix, and Tensor Derivatives (Erik Learned-Miller, Stanford Univ.)
 - 파이토치 1x로 시작하는 딥러닝
