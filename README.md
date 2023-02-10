@@ -25,7 +25,7 @@
   - Graph Convolutional Network
 - pytorch_advanced: 만들면서 배우는 파이토치 딥러닝
 - Supplementary Materials: Supplementary concepts essential to understand deep learning (noted by me)
-- **papers**: Self-reviewed or implemented papers
+- **papers**: Self-reviewed, reproduced, or implemented papers
 
 [Upcoming]
 - CS230 (2022-Winter)
