@@ -4,6 +4,7 @@
 *All problems solved by Chaeeun Ryu*
 
 ## Handouts
+- Derivatives (23.02.12)
 
 ## Lecture Note Status
 - Lecture 4 (22.09.25)
