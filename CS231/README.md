@@ -4,7 +4,8 @@
 *All problems solved by Chaeeun Ryu*
 
 ## Handouts
-- Derivatives (23.02.12)
+- Derivatives, Backpropagation, and Vetorization (23.02.12)
+- Backpropagation for a Linear Layer (23.02.13)
 
 ## Lecture Note Status
 - Lecture 4 (22.09.25)
