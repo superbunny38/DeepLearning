@@ -7,9 +7,9 @@
 - Derivatives, Backpropagation, and Vectorization (23.02.12)
 - Backpropagation for a Linear Layer (23.02.13)
 
-## Lecture Note Status
-- Lecture 4 (22.09.25)
-- Lecture 6 (22.09.25)
+## Lecture Notes
+- 1. Image Classification [Lecture 2] (23.03.01)
+
 
 ## Solving Status (Assignments)
 
