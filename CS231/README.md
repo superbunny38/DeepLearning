@@ -10,7 +10,7 @@
 ## Lecture Notes
 *commented by me!*
 - 1 Image Classification [Lecture 2] (23.03.01)
-
+- 2 Linear Classification [Lecture 2] (23.03.01)
 
 ## Solving Status (Assignments)
 
