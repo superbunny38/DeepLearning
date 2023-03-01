@@ -8,7 +8,7 @@
 - Backpropagation for a Linear Layer (23.02.13)
 
 ## Lecture Notes
-- 1. Image Classification [Lecture 2] (23.03.01)
+- 1 Image Classification [Lecture 2] (23.03.01)
 
 
 ## Solving Status (Assignments)
