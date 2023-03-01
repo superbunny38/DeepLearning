@@ -8,6 +8,7 @@
 - Backpropagation for a Linear Layer (23.02.13)
 
 ## Lecture Notes
+*commented by me!*
 - 1 Image Classification [Lecture 2] (23.03.01)
 
 
