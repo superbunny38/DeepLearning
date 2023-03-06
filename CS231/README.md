@@ -12,6 +12,7 @@
 - 1 Image Classification [Lecture 2] (23.03.01)
 - 2 Linear Classification [Lecture 2] (23.03.01)
 - 3 Linear Classification [Lecture 3] (23.03.03)
+- 4 Optimization [Lecture 4] (23.03.06)
 
 ## Solving Status (Assignments)
 
