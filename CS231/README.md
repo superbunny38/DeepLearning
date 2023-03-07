@@ -9,10 +9,11 @@
 
 ## Lecture Notes
 *commented by me!*
-- 1 Image Classification [Lecture 2] (23.03.01)
-- 2 Linear Classification [Lecture 2] (23.03.01)
-- 3 Linear Classification [Lecture 3] (23.03.03)
-- 4 Optimization [Lecture 4] (23.03.06)
+- 1 Image Classification [Assignment 1] (23.03.01)
+- 2 Linear Classification [Assignment 1] (23.03.01)
+- 3 Linear Classification [Assignment 1] (23.03.03)
+- 4 Optimization [Assignment 1] (23.03.06)
+- 5 Backpropagation [Assignment 1] (23.03.07)
 
 ## Solving Status (Assignments)
 
