@@ -15,7 +15,7 @@
 - 4 Optimization [Assignment 1] (23.03.06)
 - 5 Backpropagation [Assignment 1] (23.03.07)
   - Opt1: Calculus on Computational Graphs: Backpropagation (23.03.08)
-- 6: NN [Assignment 1] (23.03.08)
+- 7: ConvNets [Assignment 1] (23.03.08)
 
 
 ## Solving Status (Assignments)
