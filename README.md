@@ -17,6 +17,8 @@
   - CNN Architectures (22.12.14)
   - Recurrent Neural Networks (23.02.06)
   - Segmentation & Detection
+  - Generative Models (23.04.13)
+  
 - Vector, Matrix, and Tensor Derivatives (Erik Learned-Miller, Stanford Univ.)
 - 파이토치 1x로 시작하는 딥러닝
 - Computer Vision (SKKU, Prof. Gaya Nadarajan Lecture **Teaching Assistant** (2022-Spring), Attended (2021-Fall))
